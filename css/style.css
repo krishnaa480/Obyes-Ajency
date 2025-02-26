@@ -881,7 +881,6 @@ footer #footer-div h1{
 /* for mobile view */
 
 @media (max-width: 768px) {
-
     .mousefollower{
        display: none;
      }
